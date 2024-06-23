@@ -1,18 +1,4 @@
-<p float="left">
-    <img src="img/CAP.jpg" width="51"/>
-    <img src="img/efl.jpg" width="52" hspace="10"/> 
-    <img src="img/imperial-college-london.png" width="200"/>
-    <img src="img/bath.gif" width="125" hspace="10"/>
-</p>
 
-
-| :exclamation:  Warning |
-|:-----------------------------------------|
-|The Link for downloading data was expired, and it has been fixed! We are sorry for the inconvenience incurred.|
-
-| :warning:  Update |
-|:-----------------------------------------|
-|15/03/24: We fixed a bug in assigning p and q of PV to the nodes equipped with an agent. Thanks to Yang Zhang, a PhD student from Department of Automation, Shanghai Jiao Tong University, who found this bug and assisted us in fixing it.|
 
 # Multi-Agent Reinforcement Learning for Active Voltage Control on Power Distribution Networks (MAPDN)
 
